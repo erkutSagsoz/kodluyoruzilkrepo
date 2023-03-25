@@ -25,5 +25,5 @@ code.
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen neyi değiştirmek istediğinizi tartışmak için konu yazınız.
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffotolifeakademi.com%2Ffotograf-cekim-teknikleri%2Fmanzara-fotografciligi&psig=AOvVaw3Cu0B9rIao8hNXkep5STWz&ust=1679855808487000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMj-pdfc9_0CFQAAAAAdAAAAABAE)
+![view](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffotolifeakademi.com%2Ffotograf-cekim-teknikleri%2Fmanzara-fotografciligi&psig=AOvVaw3Cu0B9rIao8hNXkep5STWz&ust=1679855808487000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMj-pdfc9_0CFQAAAAAdAAAAABAE)
 
